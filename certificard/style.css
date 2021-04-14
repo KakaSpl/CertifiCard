@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Lobster&display=swap');
+body{
+    background-image: url(imagens/plano-de-fundo.jpg);
+    
+}
+
+section{
+    box-shadow: 5px 5px 50px 8px black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    padding: 15px;
+    margin-top: 100px;
+    background-color: white;
+    border: 2px solid #3C03FF;
+    border-radius: 6px;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-family: 'Caveat', cursive;
+    text-align: center;
+    color: #3C03FF;
+}
+
+h2 {
+    text-align: center;
+    font-size: 32px;
+
+}
+
+a {
+    color: black;
+}
+
+li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+}
+
+header {
+    background-image: url('https://cdn.mos.cms.futurecdn.net/ZJdmAC9KRTgY6f7YWkZgRb-1200-80.jpg');
+    background-size: cover;
+    height: 80px;
+    border-radius: 6px;
+}
+
+div {    
+    border: 2px solid #3C03FF;
+    border-radius: 6px;
+    padding: 15px;
+    background-color: #780ae75b;
+}
+
+img {
+    border-radius: 100%;
+    width: 150px;
+    height: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    transform: translateY(-102px);
+    border: 10px solid white;
+}
